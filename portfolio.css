@@ -1,0 +1,65 @@
+h1 {
+font-size: 50px;
+color: white;
+background-color:black ;
+text-align: left;
+font-family: font-family: 'Secular One', sans-serif;
+text-decoration: underline;
+}
+
+button{
+color: white;
+font-family: fantasy;
+padding: 15px 20px; 
+border-radius:12px;
+border: 3px solid white;
+background-color: black;
+ }
+
+button:hover{
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+body{
+	background-color: black;
+}
+
+img{
+max-width: 15%;
+border: solid;
+border-color:white;
+float:left;
+}
+
+#dominos{
+border: ;
+float:right;	
+margin:0px 20px;
+max-width: 50%;
+}
+
+#develstein{
+max-width: 15%;
+border-color: grey;
+float:left;
+margin:0px 20px;
+}
+
+#gif{
+max-width: 40%;
+border-color: black;
+float:left;
+}
+
+p{
+color: white;
+font-family:'Francois One', sans-serif;
+text-align: center;
+}
+
+h3{color:white;	
+font-family: 'Francois One', sans-serif;
+text-align: center;
+font-size: 175%;
+}
+
